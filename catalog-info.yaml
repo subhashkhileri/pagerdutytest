@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: test-entity-2
   annotations:
-    pagerduty.com/integration-key: 1ce4338da5d74509c05b0e4b4112ae5d
-    pagerduty.com/service-id: PR2ZPMA
+    pagerduty.com/integration-key: 26a7fe2fcebc4a02d01f4e2c047f1717
+    pagerduty.com/service-id: PAPDJXW
 spec:
   type: website
   lifecycle: development
