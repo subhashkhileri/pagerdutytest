@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-entity
   annotations:
-    pagerduty.com/integration-key: bb971e5228914c0dc095823fd268fe15
+    pagerduty.com/integration-key: a1ed3c8486634402d0714b0bbfa8af7e
     pagerduty.com/service-id: P4VTAK6
 spec:
   type: website
