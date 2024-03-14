@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: test-entity-2
   annotations:
-    pagerduty.com/integration-key: "476aafac7ec74408c07a8e1df08aac48"
-    pagerduty.com/service-id: "P4VTAK6"
+    pagerduty.com/integration-key: "26a7fe2fcebc4a02d01f4e2c047f1717"
+    pagerduty.com/service-id: "PAPDJXW"
 spec:
   type: service
   lifecycle: experimental
