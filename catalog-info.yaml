@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-entity
+  name: test-entity-2
   annotations:
     pagerduty.com/integration-key: "a1ed3c8486634402d0714b0bbfa8af7e"
     pagerduty.com/service-id: "P4VTAK6"
