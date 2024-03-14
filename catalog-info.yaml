@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: test-entity
   annotations:
-    pagerduty.com/integration-key: cd7fc9a2fdc7470cd009cf02aad90209
-    pagerduty.com/service-id: P4VTAK6
+    pagerduty.com/integration-key: [cd7fc9a2fdc7470cd009cf02aad90209]
+    pagerduty.com/service-id: [P4VTAK6]
 spec:
   type: website
   lifecycle: development
