@@ -6,6 +6,6 @@ metadata:
     pagerduty.com/integration-key: "476aafac7ec74408c07a8e1df08aac48"
     pagerduty.com/service-id: "P4VTAK6"
 spec:
-  type: website
-  lifecycle: development
+  type: service
+  lifecycle: experimental
   owner: janus-authors
