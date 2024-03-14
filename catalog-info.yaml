@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: test-entity-2
   annotations:
-    pagerduty.com/integration-key: "1ce4338da5d74509c05b0e4b4112ae5d"
-    pagerduty.com/service-id: "PR2ZPMA"
+    pagerduty.com/integration-key: 1ce4338da5d74509c05b0e4b4112ae5d
+    pagerduty.com/service-id: PR2ZPMA
 spec:
-  type: service
-  lifecycle: experimental
+  type: website
+  lifecycle: development
   owner: janus-authors
